@@ -1,0 +1,15 @@
+# Ignore all image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.mp4
+*.txt
+*.dll
+*.so
+*.zip
+*.keras
+*.h5
+*.npy
+*.npz
+*.pth
